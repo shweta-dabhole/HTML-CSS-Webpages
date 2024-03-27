@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* ----- Navbar ----- */
+.logo{
+    margin-left: 80px;
+    padding-bottom: 5px;
+    margin-top: -11px;
+}
+nav ul{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+}
+nav ul li{
+    list-style: none;
+    font-size: 16px;
+    margin-top: 40px;   
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+/* ------ Main Content ------ */
+body{
+    background-color: white;
+}
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 9rem;
+}
+/* ----- Left Section ----- */
+.leftmain h1{
+    font-size: 65px;
+}
+.leftmain p{
+    margin-left: 10px ;
+    margin-top: 10px;  
+}
+button{
+    background-color: #3B855B;
+    color: white;
+    border: none;
+    font-size: 14px;
+    padding: 13px 30px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+/* ----- Right Section ----- */
+.rightmain{
+    
+    margin-right: 50px;
+}
+/* ----- Footer ----- */
+footer{
+    display: flex;
+   justify-content: center;
+   margin-top: 30px;
+   bottom: 0;
+   width: 100%;
+   padding: 2px 0 ;
+   font-size: 18px;
+}
