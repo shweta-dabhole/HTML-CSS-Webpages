@@ -35,6 +35,9 @@
     position: absolute;
     right: 150px;   
 }
+.menu{
+    display: none;
+}
 .nav-button{
     position: absolute;
     right: 10px;
@@ -54,6 +57,10 @@
 .square{
     margin-top: 14rem;
     margin-left: 7rem;    
+}
+.hero-1{
+    margin-left: 3rem;
+    
 }
 .square img{
     height: 20rem;
@@ -155,4 +162,77 @@ footer{
 }
 .twitter{
     color: #000000;
+}
+
+/* ----- Media Query */
+
+@media only screen and (max-width: 480px) {
+    body{
+        overflow-x: hidden;
+    }
+    .list{
+        display: none;
+    }
+    .search-icon{
+        display: none;
+    }
+    .nav-button{
+        display: none;
+    }
+    .menu{
+        display: block;
+        font-size: 40px;
+        color: #000000;
+        
+    }
+    .hero-container{
+        flex-direction: column;
+        position: relative;
+        margin-left: 4rem;
+     }
+    
+    .square{
+        margin-left: -1rem;
+    }
+    .hero-1{
+        position: absolute;
+        top: 2rem;
+        left: 19rem;
+     }
+    .hero-container-right{
+        position: relative;
+    }
+    .hero-heading{
+        width: 90vw;
+        margin-left: 0;
+        margin-top: 15px;
+        font-size: 20px;
+    }
+
+    .hero-description{
+        width: 90vw;
+        margin-left: -2.3rem;
+    }
+    .btn-parent{
+        position: relative;
+
+        width: 100vw;
+        display: flex;
+        justify-content: space-between;
+        
+    }
+    .button-email{
+        margin-left: -2rem;
+    }
+    .button-join{
+        position: absolute;
+        top: 3.2rem;
+        left: 10rem;
+    }
+    .contact-heading{
+        margin-left: 6rem;
+    }
+    .icons{
+        margin-left: 2rem;
+    }
 }

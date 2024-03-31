@@ -13,7 +13,11 @@ nav ul{
     gap: 40px;
     list-style: none;
 }
+menu{
+    color: black;
+}
 nav ul li{
+
     list-style: none;
     font-size: 16px;
     margin-top: 40px;   
@@ -22,6 +26,7 @@ a{
     text-decoration: none;
     color: black;
 }
+.
 /* ------ Main Content ------ */
 body{
     background-color: white;
@@ -63,4 +68,41 @@ footer{
    width: 100%;
    padding: 2px 0 ;
    font-size: 18px;
+}
+
+/* ----- Media Query */
+
+@media only screen and (max-width: 480px) {
+    .logo{
+        margin-left: 15px;
+    }
+    
+    .nav ul li{
+        display: none;
+    }
+
+    main{
+        flex-direction: column;
+    }
+    .leftmain{
+        margin-top: 2rem;
+        flex-wrap: wrap;
+        margin-right: 11rem;
+    }
+    .leftmain h1{
+        font-size: 60px;
+    }
+    .leftmain p{
+        font-size: 20px;
+    }
+    .rightmain{
+        flex-direction: column;
+        margin-right: 15rem;
+        width: 50vw;
+    }
+    .big-img{
+        width: 80vw ;
+        height: 30vh;
+    }
+
 }

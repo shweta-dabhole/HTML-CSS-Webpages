@@ -20,12 +20,12 @@
     height: 6vh;
 }
 .line{
-    height: 60px;
+    height: 10vh;
     width: 1.5px;
+    margin-top: 10px;
     position: absolute;
     background-color: white;
-    margin-top: 15px;
-    right: 83.3rem;
+    left: 16rem;
 }
 .grow-list{
     position: relative;
@@ -43,6 +43,11 @@
 .list-item{
     font-size: 18px;
 }
+.menu{
+    display: none;
+    color: white;
+    font-size: 40px;
+}
 
 .button-small{
     background-color:#BA0CC5;
@@ -59,6 +64,7 @@
 /* ------ Main Content ------ */
 body{
     background-image: url("./assets/bg.png");
+    background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100%,100%;
@@ -66,6 +72,7 @@ body{
 }
 
 .hero{
+    
     text-align: center;
 }
 .hero-heading{
@@ -99,5 +106,56 @@ body{
     width: 100%;
     padding: 2px 0 ;
     font-size: 18px;
+    
 }
-        
+.github{
+    color: white;
+}
+.linkedin{
+    color: white;
+}
+.twitter{
+    color: white;
+}
+   
+/* ----- Media Query */
+
+@media only screen and (max-width: 480px) {
+    .navbar{
+        width: 100%;
+    }
+    .list{
+        display: none;
+    }
+    .line{
+        display: none;
+    }
+
+    .menu{
+        display: block;
+        margin-left: 17rem;
+        margin-top: 10px;
+    }
+    .button-small{
+        display: none;
+    }
+
+    .logo{
+        margin-left: -60px;
+    }
+    body{
+    
+    background-size: cover;
+    
+    }
+    .hero-heading{
+        font-size: 50px;
+        line-height: 1.2;
+    }
+    .hero-description{
+        font-size: 20px;
+    }
+
+    
+
+}

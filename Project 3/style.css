@@ -26,6 +26,10 @@
     margin-top: 40px;
     margin-right: 23rem;
 }
+.menu{
+    color: #000000;
+    display: none;
+}
 .nav-button1{
     
     margin-top: 25px;
@@ -37,6 +41,7 @@
     color: white;
     font-size: 12px;
 }
+
 /* -----  Main Content ----- */
 .banner-container{
     display: flex;
@@ -79,4 +84,49 @@ footer{
     display: flex;
     justify-content: center;
     margin-top: 30px;
+}
+
+/* ----- Media Query */
+
+@media only screen and (max-width: 480px) {
+    .navbar-container{
+        height: 5vh;
+    }
+    .img{
+        margin-left: 50px;
+    }
+    .list{
+        display: none;
+    }
+    .nav-button1{
+        display: none;
+    }
+    .menu{
+        display: block;
+        font-size: 40px;
+        margin-top: 1rem;
+        margin-left: 20px;
+    }
+    .banner-container{
+        flex-direction: column;
+    }
+    .left-side{
+        margin-left: -80px;
+        
+    }
+    .heading-text{
+        font-size: 55px;
+    }
+    .left-side p{
+        font-size: 18px;
+    }
+    .nav-button{
+        padding: 18px 30px;
+        font-size: 16px;
+    }
+    .right-side img{
+        width: 95vw;
+        height: 40vh;
+        align-items: center;
+    }
 }
