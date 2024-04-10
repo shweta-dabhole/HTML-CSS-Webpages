@@ -23,7 +23,7 @@ This project is created using HTML and CSS. I have used CSS Positioning to build
 ### Desktop:
 ![image](https://github.com/shweta-dabhole/HTML-CSS-Webpages/blob/main/Project%201/output/build.png)
 
-[<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://build-tomorrow-webpage.netlify.app/)
+[<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://build-tomorrow-shweta.netlify.app/)
 
 <br>
 
@@ -47,12 +47,12 @@ This project is created using HTML and CSS. I have used CSS Positioning to build
 ## 📷 Screenshots:
 
 ### Mobile:
-![image](https://github.com/vitthal-korvan/HTML-and-CSS-WebPages/blob/main/Project%202/output/mobile.png)
+![image](https://github.com/shweta-dabhole/HTML-CSS-Webpages/blob/main/Project%202/output/calm%20mob.jpeg)
 
 ### Desktop:
-![image](https://github.com/vitthal-korvan/HTML-and-CSS-WebPages/blob/main/Project%202/output/screenshot.PNG)
+![image](https://github.com/shweta-dabhole/HTML-CSS-Webpages/blob/main/Project%202/output/calm.png)
 
-[<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://calm-webpages.netlify.app/).
+[<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://calm-shweta.netlify.app/).
 
 
 <br>
@@ -79,12 +79,12 @@ This project is created using HTML and CSS. I have used CSS Positioning to build
 ## 📷 Screenshots:
 
 ### Mobile:
-![image](https://github.com/vitthal-korvan/HTML-and-CSS-WebPages/blob/main/Project%203/output/mobile.png)
+![image](https://github.com/shweta-dabhole/HTML-CSS-Webpages/blob/main/Project%203/output/digital%20mob.jpeg)
 
 ### Desktop:
-![image](https://github.com/vitthal-korvan/HTML-and-CSS-WebPages/blob/main/Project%203/output/screenshot.PNG)
+![image](https://github.com/shweta-dabhole/HTML-CSS-Webpages/blob/main/Project%203/output/Digital.png)
 
-[<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://digital-marketing-webpages.netlify.app/).
+[<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://digital-marketing-shweta.netlify.app/).
 
 
 <br>
@@ -110,12 +110,12 @@ This project is created using HTML and CSS. I have used CSS Positioning to build
 ## 📷 Screenshots:
 
 ### Mobile:
-![image](https://github.com/vitthal-korvan/HTML-and-CSS-WebPages/blob/main/Project%204/output/mobile.png)
+![image](https://github.com/shweta-dabhole/HTML-CSS-Webpages/blob/main/Project%204/output/M4'.jpeg)
 
 ### Desktop:
-![image](https://github.com/vitthal-korvan/HTML-and-CSS-WebPages/blob/main/Project%204/output/screenshot.PNG)
+![image](https://github.com/shweta-dabhole/HTML-CSS-Webpages/blob/main/Project%204/output/law-home.png)
 
-[<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://law-and-justice-webpage.netlify.app/).
+[<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://law-home-shweta.netlify.app/).
 
 
 <br>
@@ -141,13 +141,13 @@ This project is created using HTML and CSS. I have used CSS Positioning to build
 ## 📷 Screenshots:
 
 ### Mobile:
-![image](https://github.com/vitthal-korvan/HTML-and-CSS-WebPages/blob/main/Project%205/output/mobile.png)
+![image](https://github.com/shweta-dabhole/HTML-CSS-Webpages/blob/main/Project%205/output/medifine%20mob.jpeg)
 
 ### Desktop:
-![image](https://github.com/vitthal-korvan/HTML-and-CSS-WebPages/blob/main/Project%205/output/screenshot.PNG)
+![image](https://github.com/shweta-dabhole/HTML-CSS-Webpages/blob/main/Project%205/output/medifine.png)
 
 
-[<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://medifine-webpage-app.netlify.app/).
+[<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://medifine-shweta.netlify.app/).
 
 
 <br>
@@ -173,12 +173,12 @@ This project is created using HTML and CSS. I have used CSS Positioning to build
 ## 📷 Screenshots:
 
 ### Mobile:
-![image](https://github.com/vitthal-korvan/HTML-and-CSS-WebPages/blob/main/Project%206/output/mobile.png)
+![image](https://github.com/shweta-dabhole/HTML-CSS-Webpages/blob/main/Project%206/output/street%20mob.jpeg)
 
 ### Desktop:
-![image](https://github.com/vitthal-korvan/HTML-and-CSS-WebPages/blob/main/Project%206/output/desktop.PNG)
+![image](https://github.com/shweta-dabhole/HTML-CSS-Webpages/blob/main/Project%206/output/streetstyle.png)
 
 
 
-[<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://street-style-webpages.netlify.app/).
+[<img src= "https://img.shields.io/badge/PROJCET LINK-1DA55F?style=for-the-badge&logo=&logoColor=white" />](https://streetstyle-shweta.netlify.app/).
 
